@@ -1,28 +1,23 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Miguel Castro </h1>
+<h3 align="center">Computer Engineer | Junior Developer </h3>
+
 <p align="center">
   <img src="https://iili.io/2sWW3jj.th.jpg" alt="2sWW3jj.th.jpg" border="0">
 </p>
 <br>
 
- <p align="center">
-<img src="https://img.shields.io/badge/Age-21-blue" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-21-blue" />
   <img src="https://img.shields.io/badge/Focus-Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Callao%20Peru-success" />
   <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen" />
 </p>
+
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Miguel Castro </h1>
-<h3 align="center">Computer Engineer | Junior Developer </h3>
-<p align="center">
-<a href="" target="blank"><img align="center" src="https://iili.io/2svX4ln.th.png" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/mxgxxlxthx/" target="blank"><img align="center" src="https://iili.io/2svXjSa.th.png" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Mxgxxl11" target="blank"><img align="center" src="https://iili.io/2svXVP1.th.png" height="30" width="40" /></a>
- <a href = "mailto: miguel11.macj@gmail.com"><img align="center" src="https://iili.io/2svXhcg.th.png" height="30" width="40" /></a>
-</p>
-</p>
 
 <p align="center">
   <em>
-    Hello, I am Miguel Castro, <b>student</b> at <a href="https://www.unfv.edu.pe/index.php"> <b>Federico Villareal National University</b>, Lima-Peru</a>. <br>
+    I am Miguel Castro, <b>student</b> at <a href="https://www.unfv.edu.pe/index.php"> <b>Federico Villareal National University</b>, Lima-Peru</a>. <br>
     <b>I am a passionate Junior Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Computer Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who thinks that the <b>only</b> impossible thing is <b>what you do not try</b>
   </em> 
   <br>
