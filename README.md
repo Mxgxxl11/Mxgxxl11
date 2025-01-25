@@ -46,6 +46,8 @@ Mistakes are only mistakes if you make them more than once”</i></b> <img src="
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
   <code> <img height="50" src="https://iili.io/2svXeNR.th.png"> </code>
+  <code> <img height="50" src="http://imgfz.com/i/R52FW1O.png"> </code>
+  <code> <img height="50" src="http://imgfz.com/i/WDdYwpH.png"> </code>
   <code> <img height="50" src="http://imgfz.com/i/0sRcLVd.png"> </code>
   <code> <img height="50" src="http://imgfz.com/i/J81dCYH.png"> </code>
   <code> <img height="50" src="http://imgfz.com/i/IkALPmr.png"> </code>
